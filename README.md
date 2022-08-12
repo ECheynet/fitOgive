@@ -1,6 +1,8 @@
 # Ogive function for turbulent flux characterization
 
 
+[![DOI](https://zenodo.org/badge/524076017.svg)](https://zenodo.org/badge/latestdoi/524076017)
+
 ## Summary
 
 One method to compute the friction velocity knowing the along-wind and vertical turbulence components relies on the ogive function. For turbulence modelling, it is useful to ensure that the simulation duration is long enough to reduce the random error and to include all turbulent ranges.
