@@ -1,6 +1,6 @@
 # Ogive function for turbulent flux characterization
 
-
+[![View Ogive function for turbulent flux characterization on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/71852-ogive-function-for-turbulent-flux-characterization)
 [![DOI](https://zenodo.org/badge/524076017.svg)](https://zenodo.org/badge/latestdoi/524076017)
 
 ## Summary
